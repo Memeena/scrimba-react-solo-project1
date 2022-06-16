@@ -1,0 +1,59 @@
+.profile {
+  display: grid;
+  grid-template-rows: repeat(4, min-content);
+  justify-items: center;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.profile-img {
+  width: 317px;
+}
+
+.profile-name {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.profile-role {
+  margin-top: -0.5rem;
+  font-size: 1.28rem;
+  color: #f3bf99;
+}
+
+.profile-mail {
+  margin-top: 0.2rem;
+  font-size: 1rem;
+  color: #f5f5f5;
+}
+
+.buttons {
+  justify-self: stretch;
+  padding: 0 2rem;
+  display: flex;
+  gap: 3rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.button {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.8rem;
+  color: white;
+  padding: 1rem 2rem;
+  font-size: 1.4rem;
+  border-radius: 5px;
+  font-weight: 400;
+}
+
+.email {
+  background-color: white;
+  color: #374151;
+}
+
+.linkedin {
+  background-color: #5093e2;
+}

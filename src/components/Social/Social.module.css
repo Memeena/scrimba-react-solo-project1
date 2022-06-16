@@ -1,0 +1,13 @@
+.social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+  padding: 2rem 0;
+  /* padding-bottom: 2rem; */
+  background-color: #161619;
+}
+
+.socialimg {
+  /* padding: 1rem; */
+}
