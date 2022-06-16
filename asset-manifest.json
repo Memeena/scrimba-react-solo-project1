@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/scrimba-react-solo-project1/static/css/main.94828d61.css",
+    "main.js": "/scrimba-react-solo-project1/static/js/main.bbdb905b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/scrimba-react-solo-project1/static/js/787.28cb0dcd.chunk.js",
+    "static/media/profile-pic.png": "/scrimba-react-solo-project1/static/media/profile-pic.ae6eeef1e0263df96242.png",
+    "index.html": "/scrimba-react-solo-project1/index.html",
+    "main.94828d61.css.map": "/scrimba-react-solo-project1/static/css/main.94828d61.css.map",
+    "main.bbdb905b.js.map": "/scrimba-react-solo-project1/static/js/main.bbdb905b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/scrimba-react-solo-project1/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94828d61.css",
+    "static/js/main.bbdb905b.js"
+  ]
+}
